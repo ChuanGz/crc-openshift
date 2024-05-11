@@ -14,3 +14,10 @@ INFO Checking if /Users/nhantathanh/.crc/cache/crc_vfkit_4.15.10_arm64.crcbundle
 INFO Getting bundle for the CRC executable        
 INFO Downloading bundle: /Users/nhantathanh/.crc/cache/crc_vfkit_4.15.10_arm64.crcbundle... 
 817.64 MiB / 4.71 GiB
+
+
+INFO Checking if old launchd config for tray and/or daemon exists 
+INFO Checking if crc daemon plist file is present and loaded 
+INFO Adding crc daemon plist file and loading it  
+INFO Checking SSH port availability               
+Your system is correctly setup for using CRC. Use 'crc start' to start the instance
