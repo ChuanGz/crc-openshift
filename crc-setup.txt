@@ -1,0 +1,16 @@
+INFO Using bundle path /Users/nhantathanh/.crc/cache/crc_vfkit_4.15.10_arm64.crcbundle 
+INFO Checking if running macOS version >= 13.x    
+INFO Checking if running as non-root              
+INFO Checking if crc-admin-helper executable is cached 
+INFO Checking if running on a supported CPU architecture 
+INFO Checking if crc executable symlink exists    
+INFO Creating symlink for crc executable          
+INFO Checking minimum RAM requirements            
+INFO Check if Podman binary exists in: /Users/nhantathanh/.crc/bin/oc 
+INFO Checking if running emulated on Apple silicon 
+INFO Checking if vfkit is installed               
+INFO Checking if CRC bundle is extracted in '$HOME/.crc' 
+INFO Checking if /Users/nhantathanh/.crc/cache/crc_vfkit_4.15.10_arm64.crcbundle exists 
+INFO Getting bundle for the CRC executable        
+INFO Downloading bundle: /Users/nhantathanh/.crc/cache/crc_vfkit_4.15.10_arm64.crcbundle... 
+817.64 MiB / 4.71 GiB
