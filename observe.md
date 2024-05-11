@@ -1,4 +1,4 @@
-# ObServe
+# Observe
 
 - Monitor application metrics
 - Create custom metrics queries
